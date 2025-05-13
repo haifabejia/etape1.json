@@ -1,0 +1,5 @@
+[{"idType":"1","type":"Personnel"},{"idType":"2","type":"travail"},{"idType":"3","type":"etudes"},{"idType":"4","type":"autre"}]
+
+[{"idStatut":"1","statut":"en attente"},{"idStatut":"2","statut":"en cours"},{"idStatut":"3","statut":"termine"},{"idStatut":"4","statut":"annule"}]
+
+[{"idUrgency":"1","urgency":"tres urgent"},{"idUrgency":"2","urgent":"Urgent"},{"idUrgency":"3","urgency":"Normal"},{"idUrgency":"4","urgency":"faible"}]
